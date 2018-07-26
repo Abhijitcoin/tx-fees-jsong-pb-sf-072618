@@ -13,8 +13,6 @@ Fee is simply the sum of the inputs (use the value() method) minus the outputs (
 
 
 ```python
-# Exercise 5.1
-
 from io import BytesIO
 from tx import Tx
 

@@ -22,7 +22,7 @@ hex_tx = '010000000456919960ac691763688d3d3bcea9ad6ecaf875df5339e148a1fc61c6ed7a
 # parse the tx
 # initialize input sum
 # iterate over all inputs (t.tx_ins)
-    # get the values from the TxIn.value method you wrote in 4.2
+    # get the values from the TxIn.value method you wrote in the last lesson
     # add to input sum
 # initialize output sum
 # iterate over all outputs (t.tx_outs)
